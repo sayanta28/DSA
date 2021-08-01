@@ -1,2 +1,4 @@
 # DSA
-Code file of Data Structures and Algorithms
+
+Learning DSA with Shajal Ahmed.
+Class Notes and Problem-Solution will be updated here.
